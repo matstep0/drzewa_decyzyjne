@@ -1,2 +1,2 @@
 # drzewa_decyzyjne
-# drzewa_decyzyjne
+Sprawdź plik opis
